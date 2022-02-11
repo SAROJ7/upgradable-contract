@@ -11,7 +11,7 @@
   "dependencies": {
     "@harmony-js/core": "^0.1.49",
     "@openzeppelin/cli": "^2.8.2",
-    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/contracts": "^4.4.2",
     "@truffle/hdwallet-provider": "^1.0.38",
     "dotenv": "^8.2.0",
     "openzeppelin-solidity": "2.4.0",
